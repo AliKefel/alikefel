@@ -7,6 +7,7 @@
 <a href="https://www.java.com/en/"><img alt="PHP" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 <a href="https://tailwindcss.com/"><img alt="PHP" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 <a href="https://devdocs.io/css/"><img alt="PHP" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics"><img alt="java script " src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
 
 <div style="display: flex;">
     <img src="string-gif.gif" alt="string gif" style="width: 200px;">
