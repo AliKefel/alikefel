@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ali Kefel</h1>
+
+## <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="45px"> Languages & Frameworks
+
+<a href="https://react.dev/"><img alt="PHP" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 
 <!--
 **AliKefel/alikefel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
