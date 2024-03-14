@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Kefel</h1>
 
-## <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="45px"> Languages & Frameworks
+## <img src="https://media1.giphy.com/media/xaGWm6214vmoM/giphy.gif" width="70px"> Languages & Frameworks
 <a href="https://react.dev/"><img alt="PHP" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 <a href="https://devdocs.io/c/"><img alt="PHP" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
 <a href="https://devdocs.io/cpp/"><img alt="PHP" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
